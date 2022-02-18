@@ -51,7 +51,6 @@ ReactDOM.render(<Button />, mountNode);
 ## Links
 
 - [Home page](http://atomizecode.com/)
-- [Getting Started](https://atomizecode.com/docs/react/setup)
 - [Showcase](https://atomizecode.com/docs/react/showcase)
 - [Contributing](https://atomizecode.com/docs/react/contributing)
 - [Theme Setup](https://atomizecode.com/docs/react/theme)
